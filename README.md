@@ -4,7 +4,7 @@ Number Operations Console application in C#
 This Console Application in C# is a welcome screen that asks the user to choose a number that represents the operation the user wants to do, the operations are:
 
 ## Operation 1: Find Largest Number Among given numbers by users, the user may provide one or more.
- For example, the user enters 3 numbers: 10, 11, 15. the app returns 15
+ For example, the user enters 3 numbers: 10, 11, 15. the app returns 15.
 
 
 ## Operation 2: Reverse a given number. 
