@@ -10,9 +10,9 @@ namespace Assignment_1
     {
         static void Main(string[] args)
         {
-                Console.WriteLine("               ========================================================================");
-                Console.WriteLine("               |      Welcome to Number Operations Console Application in C#          |");
-            
+            Console.WriteLine("               ========================================================================");
+            Console.WriteLine("               |      Welcome to Number Operations Console Application in C#          |");
+
             void print_menu()
 
             {
@@ -24,6 +24,8 @@ namespace Assignment_1
                 Console.WriteLine("               | 2. Reverse a given number.                                           |");
                 Console.WriteLine("               | 3. Find the largest digit of a number.                               |");
                 Console.WriteLine("               | 4. Find the first int number inside a text.                          |");
+                Console.WriteLine("               ========================================================================");
+                Console.WriteLine("               | 5. Exit.                                                             |");
                 Console.WriteLine("               ========================================================================");
                 Console.WriteLine("\n");
                 Console.WriteLine("Enter your choice: ");
@@ -53,9 +55,9 @@ namespace Assignment_1
                         NumberSearcher.GetFirstIntNumber();
                         break;
                     case 5:
-                        exit(1);
-                        break;
-
+                        Console.WriteLine("*Press any button to exit the application! ");
+                        return;
+                      
                     default:
                         Console.WriteLine("*Unknown choice, Please try again! ");
                         break;
@@ -145,6 +147,7 @@ namespace Assignment_1
             }
 
             Console.WriteLine("\n" + "*The Largest Digit is:" + largestDigit + "\n\n");
+
 
         }
     }

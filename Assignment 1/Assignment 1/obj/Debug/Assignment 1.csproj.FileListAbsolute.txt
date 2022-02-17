@@ -6,3 +6,11 @@ C:\Users\ameer\source\repos\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csp
 C:\Users\ameer\source\repos\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
 C:\Users\ameer\source\repos\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
 C:\Users\ameer\source\repos\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\ameer\Source\Repos\MobileDevAssignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\ameer\Source\Repos\MobileDevAssignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\ameer\Source\Repos\MobileDevAssignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\ameer\Source\Repos\MobileDevAssignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\ameer\Source\Repos\MobileDevAssignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ameer\Source\Repos\MobileDevAssignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\ameer\Source\Repos\MobileDevAssignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\ameer\Source\Repos\MobileDevAssignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
