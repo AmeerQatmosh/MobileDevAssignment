@@ -1,8 +1,7 @@
 # MobileDevAssignment
 Console application in C# 
 
-This Console Application in C# is a welcome screen that asks the user to enter a number which represents the operation the user wants to do, the operations are:
-
+This Console Application in C# is a welcome screen that asks the user to choose a number that represents the operation the user wants to do, the operations are:
 
 A. Operation 1: Find Largest Number Among given numbers by users, the user may provide one or more.
 
