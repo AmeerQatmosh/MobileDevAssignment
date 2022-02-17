@@ -68,6 +68,7 @@ namespace Assignment_1
     }
 
     // Operation 1: Find the Largest Number Among given numbers.
+
     class LargestNumberFinder 
     {
     public static void LargestNumberValue() 
@@ -106,6 +107,7 @@ namespace Assignment_1
     }
 
     // Operation 2: Reverse a given number.
+
     class NumberReverser
     {
         public static void Reverse()
@@ -127,6 +129,7 @@ namespace Assignment_1
     }
 
     // Operation 3: Find the largest digit of a number.
+
     class DigitAnalyzer
     {
         public static void GetLargestDigit()
@@ -153,6 +156,7 @@ namespace Assignment_1
     }
 
     // Operation 4: Find the first int number inside a text.
+
     class NumberSearcher
     {
         public static void GetFirstIntNumber()
