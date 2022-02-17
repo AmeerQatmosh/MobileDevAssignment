@@ -1,5 +1,5 @@
 # MobileDevAssignment
-Console application in C# 
+Number Operations Console application in C# 
 
 This Console Application in C# is a welcome screen that asks the user to choose a number that represents the operation the user wants to do, the operations are:
 
