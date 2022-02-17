@@ -159,7 +159,7 @@ namespace Assignment_1
         {
 
             string text;
-            Console.Write("Enter a Text: ");
+            Console.Write("Enter a Text, 'It recommends inputting a simple short text': ");
             text = Convert.ToString(Console.ReadLine());
 
             string newtext = string.Empty;
