@@ -73,14 +73,14 @@ namespace Assignment_1
     public static void LargestNumberValue() 
         {
             
-            Console.WriteLine("Enter the number of values, 'It recommends inputting a small number to avoid the hassle of entering too many number values': " );
+            Console.WriteLine("Enter the number of values: " );
             int size = int.Parse(Console.ReadLine());
 
             int[] array = new int[size];
 
             for (int i = 0; i < size; i++)
             {
-                Console.WriteLine("Enter value " + (i+1) + " : ");
+                Console.WriteLine("Enter value " + (i+1) + ": ");
                 array[i] = int.Parse(Console.ReadLine());
             }
 
@@ -111,7 +111,7 @@ namespace Assignment_1
         public static void Reverse()
         {
             int number, reverse = 0, rem;
-            Console.Write("Enter a number, 'It recommends inputting a number without a number of digits exceeding 10 digits.': ");
+            Console.Write("Enter a number: ");
             number = int.Parse(Console.ReadLine());
             while (number != 0)
             {
@@ -132,7 +132,7 @@ namespace Assignment_1
         public static void GetLargestDigit()
         {
             int number , rem, largestDigit = 0;
-            Console.Write("Enter a number, 'It recommends inputting a number without a number of digits exceeding 10 digits.': ");
+            Console.Write("Enter a number: ");
             number = Convert.ToInt32(Console.ReadLine());
 
             while (number > 0)
@@ -159,7 +159,7 @@ namespace Assignment_1
         {
 
             string text;
-            Console.Write("Enter a Text, 'It recommends inputting a simple short text': ");
+            Console.Write("Enter a Text: ");
             text = Convert.ToString(Console.ReadLine());
 
             string newtext = string.Empty;
